@@ -1,0 +1,33 @@
+{
+  "name": "ebook-builder",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.6.0",
+    "@iconify/react": "^4.1.0",
+    "autoprefixer": "^10.0.1",
+    "axios": "^1.7.7",
+    "lucide-react": "^0.244.0",
+    "next": "14.2.15",
+    "react": "^18",
+    "react-dom": "^18",
+    "sanitize-html": "^2.13.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "^14.2.15",
+    "eslint-plugin-react-refresh": "^0.4.12",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}

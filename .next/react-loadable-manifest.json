@@ -1,0 +1,9 @@
+{
+  "app/builder/page.tsx -> ../../lib/builder/src/Builder": {
+    "id": "app/builder/page.tsx -> ../../lib/builder/src/Builder",
+    "files": [
+      "static/css/_app-pages-browser_src_lib_builder_src_Builder_tsx.css",
+      "static/chunks/_app-pages-browser_src_lib_builder_src_Builder_tsx.js"
+    ]
+  }
+}
